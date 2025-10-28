@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card,ListGroup,Container} from 'react-bootstrap';
 function Resume() {
   return (
-     <div className="d-flex justify-content-center align-items-center"
+     <div  className="d-flex justify-content-center align-items-center"
   style={{ minHeight: '100vh', width: '100vw', padding: '2rem' }} >
 
   <Container

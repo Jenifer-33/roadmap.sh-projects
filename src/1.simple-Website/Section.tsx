@@ -24,7 +24,7 @@ export const Section=()=>{
                     <Card.Title>Work Experience</Card.Title>
                     <Card.Subtitle>roadmap.sh</Card.Subtitle>
                     <Card.Text>Solved all the frontend projects</Card.Text>
-                    <Card.Link>visit my profile</Card.Link>
+                    <Card.Link >visit my profile</Card.Link>
                     <hr/>
                 <Card.Subtitle>OpenSource work</Card.Subtitle>
                 <Card.Text>

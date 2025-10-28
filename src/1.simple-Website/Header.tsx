@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container,Card,Breadcrumb,Row,Col} from "react-bootstrap"
 export const Header=()=>{
     return(
-        <Container className='p-0'>
+        <Container   className='p-0'>
             <Card className="p-4"style={{ height: '300px'}}>
            <Row>
             <Col><Card.Text><strong>Your Name</strong></Card.Text></Col>
